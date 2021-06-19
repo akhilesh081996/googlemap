@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f4f1154e-5b67-4d38-a4bb-a179336a0f72/resourceGroups/oppzonemap/providers/Microsoft.Web/sites/oppzoneapp",
+    "appService.deploySubpath": "."
+}
